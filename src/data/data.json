@@ -1,0 +1,8 @@
+{
+  "developer": "Harshita",
+  "cycle_time": 6,
+  "lead_time": 4,
+  "bug_rate": 0.2,
+  "deployment_frequency": 3,
+  "pr_throughput": 12
+}
